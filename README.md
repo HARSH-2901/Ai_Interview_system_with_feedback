@@ -36,18 +36,18 @@ An AI-powered interview preparation platform that evaluates candidate responses 
 
 ### Home Page
 
-(Interview Genration.png)
+![Generation](Interview_Genration.png)
 
 ### Interview Interface
 
-![Interview Page](Interview prep.png)
+![Interview Page](Interview_prep.png)
 
 ### Feedback Dashboard
 
 ![Dashboard](Interview_feedback.png)
 
-# Reccommendation score 
-(Recommendationwithresume.png)
+# RESUME BASED QUESTIONS
+![Recommendation](Recommendation_withresume.png)
 
 ## Future Improvements
 
